@@ -224,7 +224,3 @@ Outputs are saved in:
 -   All predictions are saved in `Test Model 1/output/`.
 
 ------------------------------------------------------------------------
-
-# 📄 License
-
-Specify your license here (MIT, Apache 2.0, etc.)
