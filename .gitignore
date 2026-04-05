@@ -1,0 +1,28 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+env/
+
+# Model files (these are too large for GitHub!)
+*.safetensors
+*.pkl
+*.pt
+*.pth
+*.bin
+checkpoints/
+output/indobert_model/
+
+# Data files (if too large)
+*.csv
+*.xlsx
+*.json
+
+# IDE
+.vscode/
+.idea/
+
+# Environment
+.env
+*.log
